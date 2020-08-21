@@ -1,0 +1,26 @@
+{
+    "name": "Respeaker6",
+    "version": "0.0.1",
+    "icon": "fab fa-battle-net",
+    "category": "undefined",
+    "author": "Psychokiller1888",
+    "maintainers": [],
+    "desc": "Let's you configure the gpio button available on the device",
+    "aliceMinVersion": "1.0.0-b3",
+    "systemRequirements": [
+        ""
+    ],
+    "pipRequirements": [
+        "RPi.GPIO"
+    ],
+    "conditions": {
+        "lang": [
+            "en",
+            "fr",
+            "de",
+            "it"
+        ],
+        "online": true,
+        "asrArbitraryCapture": true
+    }
+}
