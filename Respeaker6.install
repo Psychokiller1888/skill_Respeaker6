@@ -1,8 +1,8 @@
 {
     "name": "Respeaker6",
     "version": "0.0.1",
-    "icon": "fab fa-battle-net",
-    "category": "undefined",
+    "icon": "far fa-hand-point-down",
+    "category": "automation",
     "author": "Psychokiller1888",
     "maintainers": [],
     "desc": "Let's you configure the gpio button available on the device",
@@ -19,8 +19,6 @@
             "fr",
             "de",
             "it"
-        ],
-        "online": true,
-        "asrArbitraryCapture": true
+        ]
     }
 }
